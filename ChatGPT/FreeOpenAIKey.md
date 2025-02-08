@@ -1,9 +1,4 @@
 ## 1 GitHub
-```
-https://github.com/chatanywhere/GPT_API_free
 
-Key: SK-dlYCDGekdicLZsO1DDiCNuIl8BHiCU0BUotmERcdDyMMX4Vx
-WebSite: https://api.chatanywhere.tech
-```
-
-
+Key: sk-tNtuiq8Fh851M6EyF4BdFa8a36D94cAc80D8Dc2a7888D1F1
+WebSite: <https://free.v36.cm>
