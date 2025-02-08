@@ -2,7 +2,7 @@
 ```
 https://github.com/chatanywhere/GPT_API_free
 
-Key: SK-dlYCDGekdicLZsO1DDiCNuIl8BHiCU0BUotmERcdDyMMX4Vx
+Key: sk-8FQ6aQQKFsRGBFxF0g10pOmR690jjfxuN9oE4oTgbyKvKXTh
 WebSite: https://api.chatanywhere.tech
 ```
 
